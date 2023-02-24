@@ -54,6 +54,8 @@
           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          
+<a href="finally/home.html">Visit my website html css js </a>
         </div>
       </div>
 
