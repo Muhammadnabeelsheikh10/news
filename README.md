@@ -55,7 +55,7 @@
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           
-<a href="https://muhammadnabeelsheikh10.github.io/eproject/finally/home.html">Visit my website html css js </a>
+<a href="https://muhammadnabeelsheikh10.github.io/eproject/finally/home.html">Visit my website </a>
         </div>
       </div>
 
